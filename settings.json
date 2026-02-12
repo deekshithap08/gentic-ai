@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/ai_engine/venv/Scripts/python.exe",
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/ai_engine"
+    ],
+    "css.lint.unknownAtRules": "ignore"
+}

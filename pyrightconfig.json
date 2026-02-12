@@ -1,0 +1,19 @@
+{
+    "include": [
+        "ai_engine"
+    ],
+    "exclude": [
+        "**/node_modules",
+        "**/__pycache__",
+        "ai_engine/venv"
+    ],
+    "executionEnvironments": [
+        {
+            "root": "ai_engine",
+            "pythonVersion": "3.10",
+            "extraPaths": [
+                "."
+            ]
+        }
+    ]
+}
